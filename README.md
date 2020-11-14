@@ -8,12 +8,12 @@
 * Run `npm install` from the project root.
 * Run `ionic serve` in a terminal from the project root.
 
-## Deploying
+## Build
 
 ### Android
 
-Run `ionic cordova run android --prod`
+Run `ionic cordova prepare android`
 
 ### iOS
 
-Run `ionic cordova run ios --prod`
+Run `ionic cordova prepare ios`
