@@ -1,0 +1,26 @@
+ion-content {
+  --ion-background-color: #2a2d94;
+}
+
+.input-login {
+  --background: white;
+  --color: #3980fe;
+  --padding-start: 16px !important;
+  --padding-end: 16px !important;
+  height: 48px;
+  border-radius: 24px;
+  border: solid 2px #3980fe;
+}
+
+.item-input {
+  --border-color: transparent;
+  padding-left: 32px; 
+  padding-right: 32px;
+}
+
+.btn-login {
+  --border-radius: 24px;
+  margin-left: 34px;
+  margin-right: 34px;
+  text-transform: uppercase;
+}
